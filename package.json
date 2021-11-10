@@ -1,0 +1,11 @@
+{
+  "name": "webpack-simple",
+  "version": "1.0.0",
+  "description": "JS만 간단히 빌드하는 웹팩 세팅입니다.",
+  "scripts": {
+    "build": "cross-env NODE_ENV=production webpack --progress"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
